@@ -35,8 +35,8 @@
 Требуется Go версии 1.24.2 и выше
 Запуск осуществляется через терминал:
 
-git clone https://github.com/your-repo/poetry-generator.git
-cd poetry-generator
+git clone https://github.com/DobavNebo/Poem-Generator_RUS.git
+cd Poem-Generator_RUS
 go run .
 
 После этого в терминале появится интуитивно понятное меню -
