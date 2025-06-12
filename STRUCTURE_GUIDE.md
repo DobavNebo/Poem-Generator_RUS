@@ -47,7 +47,8 @@
     "Endings": ["a", "b"],
     "Syllables": [7, 6],
     "Accents": [false, false, true]
-}```
+}
+```
 Хокку
 ```json
 {
@@ -55,4 +56,5 @@
     "Endings": [""],
     "Syllables": [5, 7, 6],
     "Accents": [false]
-}```
+}
+```
