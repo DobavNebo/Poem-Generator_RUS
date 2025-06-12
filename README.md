@@ -36,7 +36,9 @@
 Запуск осуществляется через терминал:
 
 git clone https://github.com/DobavNebo/Poem-Generator_RUS.git
+
 cd Poem-Generator_RUS
+
 go run .
 
 После этого в терминале появится интуитивно понятное меню -
